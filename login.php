@@ -43,7 +43,7 @@ if (session_status() == PHP_SESSION_NONE) {
       </form>
 
       <div class="text-center mt-3">
-        <p>Don't have an account? <a href="register.php" class="btn btn-outline-primary btn-sm"><i class="fas fa-user-plus"></i> Register</a></p>
+        <p>Don't have an account? <a href="views/register.php" class="btn btn-outline-primary btn-sm"><i class="fas fa-user-plus"></i> Register</a></p>
       </div>
     </div>
   </div>
